@@ -1,0 +1,21 @@
+{
+  "name": "Instance 1 Repository",
+  "homepage": "http://dev.license-manager.satis/1",
+
+  "repositories": [
+    { 
+		"type": "vcs",
+		"url": "git@bitbucket.org:lobadev/core-test.git"
+	},
+	{ 
+		"type": "composer",
+		"url": "https://packagist.org" 
+	}
+  ],
+
+  "require": {
+    "azplatform/core": "*"
+  },
+
+  "require-dependencies": true
+}
