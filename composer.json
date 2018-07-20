@@ -1,8 +1,8 @@
 {
-    "name": "composer/satis",
+    "name": "morsapt/satis",
     "description": "Simple Repository Generator",
     "keywords": ["package", "repository", "generator", "static", "composer"],
-    "homepage": "https://github.com/composer/satis",
+    "homepage": "https://github.com/morsapt/satis",
     "type": "library",
     "license": "MIT",
     "authors": [{
